@@ -118,6 +118,10 @@ table {
     margin-left: auto;;
   }
 
+  .pt-40{
+    padding-top: 160px;
+  }
+
   .pb-40{
     padding-bottom: 160px;
   }
