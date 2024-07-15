@@ -117,6 +117,10 @@ table {
   .ml-auto{
     margin-left: auto;;
   }
+  
+  .pt-20{
+    padding-top: 80px;
+  }
 
   .pt-40{
     padding-top: 160px;
